@@ -1,0 +1,25 @@
+div{
+    width: 572px;
+    border:2px solid purple;
+    padding:5px;
+    margin:auto;
+    background-color:cornsilk;
+}
+img{
+    width: 572px;
+}
+p{
+    text-align: justify;
+}
+body{
+
+    font-family:Raleway;
+}
+a{
+    text-decoration:none;
+}
+a:hover{
+    text-decoration:none;
+    color:bisque;
+    background-color:lightgreen;
+}
